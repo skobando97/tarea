@@ -1,0 +1,11 @@
+com\aula\clase4\Ejemplo\EjemploClase4\dto\MovimientosDto.class
+com\aula\clase4\Ejemplo\EjemploClase4\repository\IMovimientosRepository.class
+com\aula\clase4\Ejemplo\EjemploClase4\service\IMovimientosService.class
+com\aula\clase4\Ejemplo\EjemploClase4\configs\ExceptionConfigs.class
+com\aula\clase4\Ejemplo\EjemploClase4\Exceptions\HandleExceptions.class
+com\aula\clase4\Ejemplo\EjemploClase4\Exceptions\MyHandleException.class
+com\aula\clase4\Ejemplo\EjemploClase4\controller\MovimientosController.class
+com\aula\clase4\Ejemplo\EjemploClase4\EjemploClase4Application.class
+com\aula\clase4\Ejemplo\EjemploClase4\service\impl\MovimientosServiceImpl.class
+com\aula\clase4\Ejemplo\EjemploClase4\controller\docs\IMovimientosController.class
+com\aula\clase4\Ejemplo\EjemploClase4\model\MovimientosEntity.class
